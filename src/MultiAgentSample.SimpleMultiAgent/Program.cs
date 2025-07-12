@@ -1,4 +1,7 @@
-﻿using Azure;
+﻿// https://learn.microsoft.com/en-us/training/modules/develop-multi-agent-azure-ai-foundry/
+// https://github.com/MicrosoftLearning/mslearn-ai-agents/blob/main/Labfiles/06-build-multi-agent-solution/Python/agent_triage.py
+
+using Azure;
 using Azure.AI.Agents.Persistent;
 using Azure.Identity;
 
